@@ -1,15 +1,25 @@
-title: Deepa Ingole's Portfolio
-description: Portfolio of Deepa Ingole, a passionate Software Engineer skilled in React, Java, JavaScript, and SQL, seeking opportunities in full-stack web development.
-author: Deepa Ingole
-email: sonaliforamit@gmail.com
-linkedin: https://www.linkedin.com/in/deepa-ingole
-github: https://github.com/DeepaLaunchCode
+title: Amit Ingole | Cloud & AI Contact Center Leader
+description: >
+  Portfolio of Amit Ingole, a Senior Technology Leader with 19+ years of experience
+  in Cloud Contact Center (CCaaS), AI-driven CX transformation, IVR modernization,
+  and enterprise-scale cloud architectures across AWS Connect, Five9, Twilio,
+  Cisco CVP, and Genesys.
+
+author: Amit Ingole
+email: amit.ingole@gmail.com
+
+linkedin: https://www.linkedin.com/in/amitingole
+github: https://github.com/YOUR_GITHUB_USERNAME
+
 baseurl: ""
 url: ""
+
 remote_theme: jekyll/minima@1e8a445
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
 header_pages:
   - index.md
   - resume.md
