@@ -15,7 +15,7 @@ or strategic technical leadership**, feel free to reach out.
 
 - **Email**: [amit.ingole@gmail.com](mailto:amit.ingole@gmail.com)  
 - **LinkedIn**: [www.linkedin.com/in/amitingole](https://www.linkedin.com/in/amitingole)  
-- **GitHub**: [github.com/YOUR_GITHUB_USERNAME](https://github.com/amitingole-git/)
+- **GitHub**: [github.com/amitingole-git](https://github.com/amitingole-git/)
 
 ---
 
