@@ -2,10 +2,21 @@
 layout: page
 title: Contact
 ---
+
 # Contact Me
 
-I’d love to connect! Reach out to discuss opportunities in software development or collaboration on tech projects.
+I’m always open to meaningful conversations around **cloud architecture, AI-driven
+contact center transformation, and senior technology leadership opportunities**.
 
-- **Email**: [sonaliforamit@gmail.com](mailto:sonaliforamit@gmail.com)  
-- **LinkedIn**: [www.linkedin.com/in/deepa-ingole](https://www.linkedin.com/in/deepa-ingole)  
-- **GitHub**: [github.com/DeepaLaunchCode](https://github.com/DeepaLaunchCode)
+If you’re looking to discuss **enterprise CCaaS solutions, cloud modernization,
+or strategic technical leadership**, feel free to reach out.
+
+---
+
+- **Email**: [amit.ingole@gmail.com](mailto:amit.ingole@gmail.com)  
+- **LinkedIn**: [www.linkedin.com/in/amitingole](https://www.linkedin.com/in/amitingole)  
+- **GitHub**: [github.com/YOUR_GITHUB_USERNAME](https://github.com/amitingole-git/)
+
+---
+
+Looking forward to connecting.
