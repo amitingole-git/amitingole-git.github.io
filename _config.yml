@@ -1,0 +1,17 @@
+title: Deepa Ingole's Portfolio
+description: Portfolio of Deepa Ingole, a passionate Software Engineer skilled in React, Java, JavaScript, and SQL, seeking opportunities in full-stack web development.
+author: Deepa Ingole
+email: sonaliforamit@gmail.com
+linkedin: https://www.linkedin.com/in/deepa-ingole
+github: https://github.com/DeepaLaunchCode
+baseurl: ""
+url: ""
+remote_theme: jekyll/minima@1e8a445
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+header_pages:
+  - index.md
+  - resume.md
+  - projects.md
+  - contact.md
